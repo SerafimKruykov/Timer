@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <array name="pref_timer_melody_lables">
+
+        <item>Melody 1</item>
+        <item>Melody 2</item>
+        <item>Melody 3</item>
+
+    </array>
+
+    <array name="pref_timer_melody_values">
+
+        <item>melody_1</item>
+        <item>melody_2</item>
+        <item>melody_3</item>
+
+    </array>
+    
+</resources>
